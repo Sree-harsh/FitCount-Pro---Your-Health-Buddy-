@@ -49,13 +49,14 @@ class pushup():
             
        
 def main():
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(1)
     cap.set(3, 1280)
     cap.set(4, 720)
     pup = pushup()
     while True:
         success, img = cap.read()
         newimg = pup.pushupcounter(img)
+        
         cv2.imshow("Image", newimg)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
