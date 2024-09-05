@@ -5,12 +5,12 @@ Welcome to **FitCountPro**, your ultimate fitness companion! This project is des
 ## Features 
 
 ### 1. Pushup Counter
-Easily count the number of pushups you complete during your workout. Stay motivated and track your progress with precision.
-
+Easily count the number of pushups you complete during your workout. Stay motivated and track your progress with precision 
+ (Please wait untill the demonstrative gif loads on your screen).
 ![Pushup Counter Demo](assets/pushup_new.gif)  
 
 ### 2. Situp Counter with Muscle Stress Level Indicator
-Track your situp count and get insights into your muscle stress levels. The built-in stress level indicator helps you monitor your body’s response to the workout, providing a more holistic view of your fitness.
+Track your situp count and get insights into your muscle stress levels. The built-in stress level indicator helps you monitor your body’s response to the workout, providing a more holistic view of your fitness (Please wait untill the demonstrative gif loads on your screen).
 
 ![Situp Counter Demo](assets/situp_new.gif)  
 
