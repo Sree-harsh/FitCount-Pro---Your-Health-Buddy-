@@ -7,7 +7,7 @@ Welcome to **FitCountPro**, your ultimate fitness companion! This project is des
 ### 1. Pushup Counter
 Easily count the number of pushups you complete during your workout. Stay motivated and track your progress with precision.
 
-![Pushup Counter Demo](/assets/situp.gif)  
+![Pushup Counter Demo](assets/situp.gif)  
 *GIF Placeholder for Pushup Counter*
 
 ### 2. Situp Counter with Muscle Stress Level Indicator
